@@ -1,4 +1,5 @@
-...
+```
+문제입니다
 Task:
 
 You have to write a function pattern which creates the following pattern upto n number of rows.
@@ -14,4 +15,4 @@ pattern(8):
 4444
 666666
 88888888
-...
+```
